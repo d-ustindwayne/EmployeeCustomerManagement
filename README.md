@@ -1,6 +1,7 @@
 # Employee Customer Management
 
-This project is made with java for the course "Object Oriented Programming" in Manukau Institue of Technology
+## Description
+This project is made with java for the course "Object Oriented Programming" in Manukau Institute of Technology. Made possible with Apache Netbeans, written in Java language.
 
 **To run this application from the command line without Ant, try:**
 
